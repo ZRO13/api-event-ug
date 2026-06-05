@@ -1,0 +1,10 @@
+2025-10-26 19:44:23.031 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.3.Final
+2025-10-26 19:44:23.049 INFO  c.g.e.a.c.EventControllerTest - Starting EventControllerTest using Java 24 with PID 21571 (started by gchaldu in /Users/gchaldu/Desktop/curso-java/SPRING BOOT/Proyectos/12-api)
+2025-10-26 19:44:23.049 DEBUG c.g.e.a.c.EventControllerTest - Running with Spring Boot v3.5.6, Spring v6.2.11
+2025-10-26 19:44:23.049 INFO  c.g.e.a.c.EventControllerTest - The following 1 profile is active: "dev"
+2025-10-26 19:44:23.941 INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-10-26 19:44:23.942 INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-10-26 19:44:23.942 INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+2025-10-26 19:44:23.954 INFO  c.g.e.a.c.EventControllerTest - Started EventControllerTest in 1.13 seconds (process running for 1.645)
+2025-10-26 19:44:24.060 INFO  c.g.e.api.controller.EventController - Recibida solicitud POST para crear evento: Taller de Microservicios
+2025-10-26 19:44:24.061 DEBUG c.g.e.api.controller.EventController - Evento creado exitosamente con ID: 5
